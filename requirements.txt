@@ -1,0 +1,5 @@
+Flask
+Flask_Cors
+requests
+ibm_watsonx_ai
+python-dotenv==1.*
